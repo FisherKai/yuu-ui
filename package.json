@@ -6,10 +6,12 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name yui --dest lib packages/index.js"
+    "lib": "vue-cli-service build --target lib --name yui --dest lib packages/index.js",
+    "addto": "node scripts/addto"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.15.6",
     "vue": "^2.6.11"
   },
   "devDependencies": {

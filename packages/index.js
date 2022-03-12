@@ -1,5 +1,6 @@
 // 导入button组件
 import YButton from './Button'
+import 'element-ui/lib/theme-chalk/index.css';
 
 // 组件列表
 const components = [

@@ -1,12 +1,13 @@
 <template>
-  <y-button type="primary">button</y-button>
+  <section>
+    <y-button>yukai</y-button>
+  </section>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
-}
+  name: "App",
+};
 </script>
 
 <style>
