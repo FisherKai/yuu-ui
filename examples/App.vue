@@ -1,6 +1,8 @@
 <template>
   <section>
-    <y-button>yukai</y-button>
+    <y-button>按钮</y-button>
+    <br>
+    <y-radio>单选框</y-radio>
   </section>
 </template>
 

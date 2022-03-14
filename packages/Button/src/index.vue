@@ -15,7 +15,6 @@
   </el-button>
 </template>
 <script>
-import { Button } from "element-ui";
 export default {
   name: "y-button",
   props: {
@@ -33,9 +32,7 @@ export default {
     autofocus: Boolean,
     nativeType: String,
   },
-  components: {
-    "el-button": Button,
-  }
+  components: {}
 };
 </script>
  
